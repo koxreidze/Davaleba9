@@ -157,3 +157,59 @@
     left: 500px;
     bottom: 320px;
 }
+
+.m1 {
+    position: relative;
+    left: 420px;
+    bottom: 300px;
+    font-size: 19px;
+    color: #343232;
+}
+
+.m2 {
+    position: relative;
+    left: 770px;
+    bottom: 320px;
+    font-size: 19px;
+    color: #343232;
+}
+
+.m3 {
+    position: relative;
+    font-size: 19px;
+    left: 1085px;
+    bottom: 340px;
+    color: #343232;
+}
+
+.w1 {
+    position: relative;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+    left: 420px;
+    bottom: 325px;
+}
+
+.w2 {
+    position: relative;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+    left: 770px;
+    bottom: 390px;
+}
+
+
+.w3 {
+    position: relative;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+    left: 1085px;
+    bottom: 455px;
+}
+
+body {
+    font-family: Helvetica,Helvetica,Arial,sans-serif; 
+}
