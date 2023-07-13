@@ -1,0 +1,159 @@
+.logo {
+    display: inline-block;
+    margin-left: 99px;
+    margin-top: 24px;
+}
+
+.first {
+    display: inline-block;
+    margin-left: 676px;
+    vertical-align: top;
+    margin-top: 33px;
+    font-weight: 400;
+    color: #636060;
+}
+
+.header {
+    display: inline-block;
+    margin-left: 50px;
+    vertical-align: middle;
+    margin-top: 0px;
+    vertical-align: top;
+    margin-top: 33px;
+    font-weight: 400;
+    color: #636060;
+}
+
+.photo {
+    width: 1544px;
+    height: 706px;
+}
+
+.main1 {
+    position: absolute;
+    top: 322px;
+    left: 507px;
+    font-size: 79px;
+    font-weight: 700;
+    color: white;
+}
+
+.undermain {
+    position: absolute;
+    top: 440px;
+    left: 640px;
+    color: white;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.name {
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 100px;
+    color: #636060;
+    margin-top: 84px;
+    display: inline-block;
+}
+
+.mainname {
+    margin-left: 100px;
+    margin-top: 9px;
+    font-size: 28px;
+}
+
+.paragraph {
+    margin-left: 100px;
+    margin-top: 37px;
+    height: 115px;
+    width: 235px;
+    color: #636060;
+}
+
+.images {
+    position: absolute;
+    left: 418px;
+    top: 850px;
+    display: inline-block;
+}
+
+.a1 {
+    position: relative;
+    left: 750px;
+    bottom: 220px;
+}
+
+.a2 {
+    position: relative;
+    left: 790px;
+    bottom: 220px;
+}
+
+.names1 {
+    position: relative;
+    left: 420px;
+    bottom: 200px;
+    font-size: 19px ;
+    color: #343232;
+}
+
+.names2 {
+    position: relative;
+    left: 750px;
+    bottom: 220px;
+    font-size: 19px ;
+    color: #343232;
+}
+
+.names3 {
+    position: relative;
+    left: 1080px;
+    bottom: 240px;
+    font-size: 19px ;
+    color: #343232;
+}
+
+.p1 {
+    position: relative;
+    left: 420px;
+    bottom: 230px;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+}
+
+.p2 {
+    position: relative;
+    left: 750px;
+    bottom: 295px ;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+}
+
+.p3 {
+    position: relative;
+    left: 1080px;
+    bottom: 360px ;
+    width: 286px;
+    height: 63px;
+    color: #636060;
+}
+
+.t1 {
+    position: relative;
+    left: 418px;
+    bottom:320px ;
+}
+
+.t2 {
+    position: relative;
+    left: 465px;
+    bottom: 320px;
+}
+
+.t3 {
+    position: relative;
+    left: 500px;
+    bottom: 320px;
+}
